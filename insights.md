@@ -1,4 +1,4 @@
-INSIGHTS
+## INSIGHTS
 
 1. Graphics Card is the highest selling product by revenue from Electronics category.
 2. Pen and Eraser are the highest selling products by quantity from Stationary.
