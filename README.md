@@ -1,6 +1,6 @@
 # Retail-Analysis-using-SQL
 
-##Tools Used
+## Tool used
 - PostgreSQL
 - SQL (Joins, Aggregations, Subqueries)
 
